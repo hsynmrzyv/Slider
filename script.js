@@ -1,5 +1,3 @@
 "use strict";
 
-console.log('Hello World')
-
-// comment
+console.log("Hello World");
